@@ -1,2 +1,2 @@
 # Sample-Resume-Project
-HTML|CSS
+HTML | CSS
