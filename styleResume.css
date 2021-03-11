@@ -744,7 +744,7 @@ button:hover{
 
 @media only screen and (max-width: 450px){
     .ITCS-div span{
-        font-size: 20px;
+        font-size: 18px;
         left: -20%;
     }
     .ITCS-div{
@@ -760,7 +760,7 @@ button:hover{
         width: 100%;
     }
     .cisco-badge-div img{
-        width: 35%;
+        width: 32%;
         height: 75%;
     }
     #certification .section-heading{
