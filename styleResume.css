@@ -751,10 +751,10 @@ button:hover{
         top: 0;
     }
     .courses-enrolled p{
-        font-size: 18px;
+        font-size: 16px;
     }
     .courses-enrolled span{
-        font-size: 14px;
+        font-size: 13px;
     }
     .courses-enrolled, .cisco-badge-div{
         width: 100%;
@@ -778,6 +778,9 @@ button:hover{
     }
     #main-header{
         height: 52vh;
+    }
+    #myimage{
+        margin-top: -6vh;
     }
 }
 
